@@ -1,4 +1,4 @@
-module github.com/onceup/golang-microservices
+module github.com/onceup/go-grpc-ms
 
 go 1.21
 
